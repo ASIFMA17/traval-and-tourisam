@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/traval-and-tourisam/static/css/main.43013f38.css",
+    "main.js": "/traval-and-tourisam/static/js/main.3caab632.js",
+    "static/media/video1.mp4": "/traval-and-tourisam/static/media/video1.857e659f88b1ebe37757.mp4",
+    "static/media/video2.mp4": "/traval-and-tourisam/static/media/video2.1763eeb63dcedd1911fc.mp4",
+    "static/media/img5.jpg": "/traval-and-tourisam/static/media/img5.b76a4c35d9c54b1e57a8.jpg",
+    "static/media/img4.jpg": "/traval-and-tourisam/static/media/img4.3260839b73b80883ed37.jpg",
+    "static/media/img3.jpg": "/traval-and-tourisam/static/media/img3.fb496df934f038f7dceb.jpg",
+    "static/media/img2.jpg": "/traval-and-tourisam/static/media/img2.67a0c07343baebc173b4.jpg",
+    "static/media/img1.jpg": "/traval-and-tourisam/static/media/img1.d396cb657d018e89fd8c.jpg",
+    "index.html": "/traval-and-tourisam/index.html",
+    "main.43013f38.css.map": "/traval-and-tourisam/static/css/main.43013f38.css.map",
+    "main.3caab632.js.map": "/traval-and-tourisam/static/js/main.3caab632.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43013f38.css",
+    "static/js/main.3caab632.js"
+  ]
+}
